@@ -1,6 +1,6 @@
 ## Miembros
 
-* Black panther
+* Black pantherw
 * Black Widow
 * Capitán America
 * Capitán Marvel
@@ -17,3 +17,4 @@
 * Vision
 * Wasp
 * Antman
+* Nick Fury
